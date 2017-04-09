@@ -1,0 +1,20 @@
+                                ${AnsiColor.BRIGHT_GREEN}
+
+          JJJJJJJJJJJ WWWWWWWW                           WWWWWWWW TTTTTTTTTTTTTTTTTTTTTTT
+          J:::::::::J W::::::W                           W::::::W T:::::::::::::::::::::T
+          J:::::::::J W::::::W                           W::::::W T:::::::::::::::::::::T
+          JJ:::::::JJ W::::::W                           W::::::W T:::::TT:::::::TT:::::T
+            J:::::J    W:::::W           WWWWW           W:::::W  TTTTTT  T:::::T  TTTTTT
+            J:::::J     W:::::W         W:::::W         W:::::W         T:::::T
+            J:::::J      W:::::W       W:::::::W       W:::::W          T:::::T
+            J:::::j       W:::::W     W:::::::::W     W:::::W           T:::::T
+            J:::::J        W:::::W   W:::::W:::::W   W:::::W            T:::::T
+JJJJJJJ     J:::::J         W:::::W W:::::W W:::::W W:::::W             T:::::T
+J:::::J     J:::::J          W:::::W:::::W   W:::::W:::::W              T:::::T
+J::::::J   J::::::J           W:::::::::W     W:::::::::W               T:::::T
+J:::::::JJJ:::::::J            W:::::::W       W:::::::W                T:::::T
+ JJ:::::::::::::JJ              W:::::W         W:::::W                 T:::::T
+   JJ:::::::::JJ                 W:::W           W:::W                  T:::::T
+     JJJJJJJJJ                    WWW             WWW                   T:::::T
+
+                            Spring-Boot ${spring-boot.version}
