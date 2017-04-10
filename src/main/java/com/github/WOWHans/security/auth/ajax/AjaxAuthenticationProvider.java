@@ -50,7 +50,7 @@ public class AjaxAuthenticationProvider implements AuthenticationProvider {
         User user = userService.getByUserName(username).orElseThrow(() -> new UsernameNotFoundException("未发现用户名:" + username));
         log.debug("该用户名:{}的密码:{}",user.getUsername(),user.getPassword());
         //2.如果用户名和密码不匹配数据库中的记录，身份验证异常将会被抛出。
-        if (bCryptPasswordEncoder.matches(password, user.getPassword())) {
+        if (!bCryptPasswordEncoder.matches(password, user.getPassword())) {
             throw new BadCredentialsException("认证失败，用户名或密码无效");
         }
 
