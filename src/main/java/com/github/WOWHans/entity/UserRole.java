@@ -3,13 +3,7 @@ package com.github.WOWHans.entity;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * UserRole
- * 
- * @author vladimir.stankovic
- *
- *         Aug 18, 2016
- */
+
 @Entity
 @Table(name = "USER_ROLE")
 public class UserRole {
