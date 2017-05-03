@@ -1,4 +1,4 @@
-server.port: 8080
+server.port: 8090
 spring.profiles: default
 demo.security.jwt:
   tokenExpirationTime: 15 # Number of minutes
